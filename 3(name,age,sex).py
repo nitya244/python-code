@@ -1,0 +1,6 @@
+Name=input("what is your name=")
+Age=int(input("what is your age="))
+Sex=input("what is your sex=")
+print("Name=",Name)
+print("Age=",Age)
+print("Sex=",Sex)
